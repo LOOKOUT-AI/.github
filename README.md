@@ -1,1 +1,1 @@
-![Logo](assets/images/logo.png)
+![Logo](assets/images/LOOKOOUT_logo.png)
